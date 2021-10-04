@@ -1,5 +1,7 @@
 class Project:
-    
+
+#annabelle_herschend1@baylor.edu
+
     def __init__(self, ID, desc, consul, due):
         self.projid = ID
         self.projdesc = desc
